@@ -1,0 +1,33 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de logs
+*.log
+
+# Diretórios de dependências
+/node_modules
+/vendor
+
+# Diretórios de build/produção
+/dist
+/build
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de IDE/editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+*.swp
+*.swo
+*~ 

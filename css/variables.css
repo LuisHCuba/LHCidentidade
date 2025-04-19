@@ -1,0 +1,64 @@
+:root {
+    /* Cores principais */
+    --primary-color: #3391FF;
+    --primary-light: #66AFFF;
+    --primary-dark: #0A6CD6;
+    --black: #FFFFFF;
+    --white: #1A1A1A;
+    --gray: #767676;
+    
+    /* Cores de background */
+    --bg-main: #121212;
+    --bg-card: #1E1E1E;
+    --bg-elevated: #252525;
+    
+    /* Cores de texto */
+    --text-color: #E0E0E0;
+    --text-secondary: #B0B0B0;
+    
+    /* Cores de utilidade */
+    --border-color: #333333;
+    --success-color: #4CAF50;
+    --warning-color: #FF9800;
+    --error-color: #F44336;
+    
+    /* Espaçamentos */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 1.5rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 3rem;
+    --spacing-xxl: 4rem;
+    
+    /* Tamanhos de Logo */
+    --logo-size-sm: 100px;
+    --logo-size-md: 200px;
+    --logo-size-lg: 300px;
+    --logo-padding: 1.5rem;
+    
+    /* Tipografia */
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Roboto', sans-serif;
+    --font-monospace: 'JetBrains Mono', monospace;
+    --font-size-xs: 0.75rem;
+    --font-size-sm: 0.9rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.2rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 2rem;
+    
+    /* Bordas */
+    --border-radius-sm: 4px;
+    --border-radius-md: 8px;
+    --border-radius-lg: 12px;
+    
+    /* Sombras */
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.1);
+    
+    /* Transições */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+} 
